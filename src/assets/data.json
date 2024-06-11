@@ -386,7 +386,111 @@
         ]
       }
     ],
-    "mobile_legend": {}
+    "mobile_legend": [
+      {
+        "product": "Diamond",
+        "detail": [
+          {
+            "quantity": 3,
+            "price": 2000
+          },
+          {
+            "quantity": 5,
+            "price": 3000
+          },
+          {
+            "quantity": 12,
+            "price": 5000
+          },
+          {
+            "quantity": 15,
+            "price": 6000
+          },
+          {
+            "quantity": 20,
+            "price": 7000
+          },
+          {
+            "quantity": 23,
+            "price": 8000
+          },
+          {
+            "quantity": 28,
+            "price": 10000
+          },
+          {
+            "quantity": 30,
+            "price": 11000
+          },
+          {
+            "quantity": 36,
+            "price": 12000
+          },
+          {
+            "quantity": 40,
+            "price": 13000
+          },
+          {
+            "quantity": 44,
+            "price": 14000
+          },
+          {
+            "quantity": 46,
+            "price": 15000
+          },
+          {
+            "quantity": 54,
+            "price": 16000
+          },
+          {
+            "quantity": 59,
+            "price": 18000
+          },
+          {
+            "quantity": 64,
+            "price": 19000
+          },
+          {
+            "quantity": 70,
+            "price": 20000
+          },
+          {
+            "quantity": 74,
+            "price": 23000
+          },
+          {
+            "quantity": 78,
+            "price": 24000
+          },
+          {
+            "quantity": 84,
+            "price": 25000
+          },
+          {
+            "quantity": 86,
+            "price": 26000
+          },
+          {
+            "quantity": 92,
+            "price": 27000
+          },
+          {
+            "quantity": 102,
+            "price": 31000
+          }
+        ]
+      },
+      {
+        "product": "Lainnya",
+        "detail": [
+          {
+            "name": "1x Weekly Diamond Pass",
+            "price": 31000,
+            "description": "1x Weekly Diamond Pass\n Produk yang didapatkan yaitu 20 diamond x 7 hari dan ada tambahan 80 diamond diawal, jadi total diamond yang didapat sebesar 220 diamond\n Maksimal weekly pass adalah 70 hari dalam 1 akun game mobile legend\n Pembelian weekly pass pada ingame tidak dapat digabung dengan weekly diamond pass via id"
+          }
+        ]
+      }
+    ]
   },
   "masa_aktif_kartu": {}
 }
