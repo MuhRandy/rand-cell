@@ -1,0 +1,392 @@
+{
+  "kuota_internet": {
+    "axis": {
+      "chat_and_youtube_or_sosmed": [
+        {
+          "product": "Chat + Youtube",
+          "description": "Kuota hanya berlaku pada youtube dan chat (WhatsApp dan Line)",
+          "detail": [
+            {
+              "quota": 3,
+              "duration": 5,
+              "price": 5000
+            },
+            {
+              "quota": 6,
+              "duration": 5,
+              "price": 10000
+            },
+            {
+              "quota": 3,
+              "duration": 30,
+              "price": 10000
+            }
+          ]
+        },
+        {
+          "product": "Chat + Sosmed",
+          "description": "Kuota hanya berlaku pada sosmed (Facebook, Instagram, Twitter (X) dan TikTok) dan chat (WhatsApp dan Line)",
+          "detail": [
+            {
+              "quota": 3,
+              "duration": 5,
+              "price": 5000
+            },
+            {
+              "quota": 6,
+              "duration": 5,
+              "price": 10000
+            },
+            {
+              "quota": 3,
+              "duration": 30,
+              "price": 10000
+            }
+          ]
+        },
+        {
+          "product": "Youtube 1,5gb 30hr",
+          "price": 5000,
+          "description": "Kuota hanya berlaku pada youtube"
+        },
+        {
+          "product": "Sosmed 1,5gb 30hr",
+          "price": 5000,
+          "description": "Kuota hanya berlaku pada sosmed (Facebook, Instagram, Twitter (X) dan TikTok)"
+        }
+      ]
+    },
+    "data_internet": [
+      {
+        "product": "Kuota Internet",
+        "description": "Kuota dapat digunakan seluruhnya",
+        "detail": [
+          {
+            "quota": 1.5,
+            "duration": 1,
+            "price": 6000
+          },
+          {
+            "quota": 2.5,
+            "duration": 1,
+            "price": 8000
+          },
+          {
+            "quota": 2.5,
+            "duration": 2,
+            "price": 9000
+          },
+          {
+            "quota": 2,
+            "duration": 3,
+            "price": 9000
+          },
+          {
+            "quota": 2.5,
+            "duration": 3,
+            "price": 10000
+          },
+          {
+            "quota": 3,
+            "duration": 3,
+            "price": 11000
+          },
+          {
+            "quota": 2.5,
+            "duration": 5,
+            "price": 13000
+          },
+          {
+            "quota": 4.5,
+            "duration": 3,
+            "price": 13000
+          },
+          {
+            "quota": 7,
+            "duration": 3,
+            "price": 15000
+          },
+          {
+            "quota": 4,
+            "duration": 5,
+            "price": 15000
+          },
+          {
+            "quota": 7,
+            "duration": 5,
+            "price": 21000
+          },
+          {
+            "quota": 4.5,
+            "duration": 7,
+            "price": 23000
+          },
+          {
+            "quota": 5.5,
+            "duration": 7,
+            "price": 26000
+          },
+          {
+            "quota": 12,
+            "duration": 5,
+            "price": 26000
+          },
+          {
+            "quota": 5,
+            "duration": 15,
+            "price": 28000
+          },
+          {
+            "quota": 7.5,
+            "duration": 7,
+            "price": 29000
+          },
+          {
+            "quota": 20,
+            "duration": 7,
+            "price": 41000
+          },
+          {
+            "quota": 13,
+            "duration": 15,
+            "price": 43000
+          },
+          {
+            "quota": 35,
+            "duration": 15,
+            "price": 71000
+          }
+        ]
+      },
+      {
+        "product": "Kuota Malam",
+        "description": "Kuota dapat digunakan pada jam 00:00 - 06:00",
+        "detail": [
+          {
+            "quota": 5,
+            "duration": 5,
+            "price": 8000
+          },
+          {
+            "quota": 12,
+            "duration": 5,
+            "price": 20000
+          }
+        ]
+      }
+    ]
+  },
+  "token_pln": {},
+  "top_up_game": {
+    "freefire": [
+      {
+        "product": "Diamond",
+        "detail": [
+          {
+            "quantity": 5,
+            "price": 2000
+          },
+          {
+            "quantity": 10,
+            "price": 3000
+          },
+          {
+            "quantity": 12,
+            "price": 3500
+          },
+          {
+            "quantity": 15,
+            "price": 4000
+          },
+          {
+            "quantity": 20,
+            "price": 5000
+          },
+          {
+            "quantity": 25,
+            "price": 6000
+          },
+          {
+            "quantity": 30,
+            "price": 7000
+          },
+          {
+            "quantity": 50,
+            "price": 9000
+          },
+          {
+            "quantity": 55,
+            "price": 10000
+          },
+          {
+            "quantity": 70,
+            "price": 11000
+          },
+          {
+            "quantity": 80,
+            "price": 13000
+          },
+          {
+            "quantity": 100,
+            "price": 16000
+          },
+          {
+            "quantity": 120,
+            "price": 18000
+          },
+          {
+            "quantity": 140,
+            "price": 21000
+          },
+          {
+            "quantity": 150,
+            "price": 23000
+          },
+          {
+            "quantity": 160,
+            "price": 25000
+          },
+          {
+            "quantity": 200,
+            "price": 30000
+          },
+          {
+            "quantity": 210,
+            "price": 31000
+          },
+          {
+            "quantity": 280,
+            "price": 41000
+          },
+          {
+            "quantity": 355,
+            "price": 50000
+          },
+          {
+            "quantity": 375,
+            "price": 56000
+          },
+          {
+            "quantity": 405,
+            "price": 57000
+          },
+          {
+            "quantity": 400,
+            "price": 63000
+          },
+          {
+            "quantity": 425,
+            "price": 65000
+          },
+          {
+            "quantity": 475,
+            "price": 69000
+          },
+          {
+            "quantity": 510,
+            "price": 73000
+          },
+          {
+            "quantity": 545,
+            "price": 79000
+          },
+          {
+            "quantity": 600,
+            "price": 87000
+          },
+          {
+            "quantity": 635,
+            "price": 94000
+          },
+          {
+            "quantity": 720,
+            "price": 99000
+          },
+          {
+            "quantity": 790,
+            "price": 118000
+          },
+          {
+            "quantity": 860,
+            "price": 121000
+          },
+          {
+            "quantity": 930,
+            "price": 131000
+          },
+          {
+            "quantity": 1000,
+            "price": 145000
+          },
+          {
+            "quantity": 1075,
+            "price": 155000
+          },
+          {
+            "quantity": 1450,
+            "price": 203000
+          },
+          {
+            "quantity": 2000,
+            "price": 282000
+          },
+          {
+            "quantity": 1440,
+            "price": 291000
+          },
+          {
+            "quantity": 2140,
+            "price": 390000
+          },
+          {
+            "quantity": 2180,
+            "price": 343000
+          },
+          {
+            "quantity": 2350,
+            "price": 414000
+          },
+          {
+            "quantity": 2720,
+            "price": 447000
+          },
+          {
+            "quantity": 3640,
+            "price": 577000
+          },
+          {
+            "quantity": 4000,
+            "price": 622000
+          }
+        ]
+      },
+      {
+        "product": "Lainnya",
+        "detail": [
+          {
+            "name": "Level Up Pass",
+            "price": 16000,
+            "description": "Total diamond yang didapatkan adalah 550 Diamond dan didapatkan jika setiap naik level. \nDengan detail :\n Level 2 100 Diamond\n Level 4 40 Diamond\n Level 6 50 Diamond\n Level 8 40 Diamond\n Level 10 50 Diamond\n Level 13 40 Diamond\n Level 16 50 Diamond\n Level 20 40 Diamond\n Level 25 40 Diamond\n Level 30 100 Diamond\n Jika pada akunnya tidak memiliki event misi level up pass maka akan otomatis dikirim 106 Diamond"
+          },
+          {
+            "name": "Membership Mingguan + 50 Diamonds",
+            "price": 31000,
+            "description": "100 Diamond ketika transksi sukses\n 50 Diamond per hari selama seminggu (total 450 Diamonds)\n Ditambah diskon Shop membership dan hadiah lainnya"
+          },
+          {
+            "name": "Booyah Pass",
+            "price": 48000,
+            "description": "Produk yang didapatkan yaitu hadiah eksklusif dari Free Fire Booyah Pass dalam bentuk item bukan diamond\n Pembelian produk hanya dapat dilakukan 1 kali perakun game free fire, dan dapat dibeli setiap pergantian bulan"
+          },
+          {
+            "name": "Membership Mingguan + 50 Diamonds",
+            "price": 88000,
+            "description": "500 Diamond ketika transksi sukses\n 50 Diamond per hari selama sebulan (total 2000 Diamonds)\n Ditambah diskon Shop membership dan hadiah lainnya"
+          }
+        ]
+      }
+    ],
+    "mobile_legend": {}
+  },
+  "masa_aktif_kartu": {}
+}
