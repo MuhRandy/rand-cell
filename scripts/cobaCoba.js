@@ -1,7 +1,8 @@
-for (let i = 1; i < 6; i++) {
-  if (i % 2 === 0) {
-    console.log(i + " adalah genap");
-  } else {
-    console.log(i + " adalah ganjil");
-  }
+var scores = [1, 2, 3, 4, 5];
+var sum = 0;
+
+for (var i = 0; i < scores.length; i++) {
+  sum += scores[i];
 }
+
+console.log(sum);

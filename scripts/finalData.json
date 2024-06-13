@@ -13188,20 +13188,5 @@
         ]
       }
     ]
-  },
-  {
-    "name": "transfer",
-    "detail": [
-      {
-        "name": "dana",
-        "detail": [
-          {
-            "product": "Cek Nama Rekening",
-            "type": "Transfer Dana",
-            "price": 5000000000
-          }
-        ]
-      }
-    ]
   }
 ]
